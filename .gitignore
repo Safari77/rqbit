@@ -9,3 +9,6 @@
 /GEMINI.md
 /perf.data*
 /flamegraph.svg
+/Cargo.lock
+*~
+.*.sw?

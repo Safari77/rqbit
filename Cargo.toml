@@ -38,7 +38,8 @@ panic = "abort"
 
 [profile.release]
 panic = "abort"
-debug = false
+debug = true
+strip = false
 lto = "thin"
 
 [profile.release-github]
